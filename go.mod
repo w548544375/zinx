@@ -1,4 +1,4 @@
-module github.com/aceld/zinx
+module github.com/w548544375/zinx
 
 go 1.17
 
